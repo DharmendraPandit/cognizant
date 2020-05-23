@@ -19,6 +19,7 @@ The following fields should be returned:
  Serice url:
  
  GET: http://localhost:8080/microservices/repositories/2
+ 
  Sample response:
 [
     {
@@ -53,6 +54,7 @@ The following fields should be returned:
  Service url:
  
  GET: http://localhost:8080/microservices/accounts/2
+ 
  Sample response:
  [
     {
