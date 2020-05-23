@@ -16,7 +16,8 @@ The following fields should be returned:
       language
       description
       name
- url:
+ Serice url:
+ 
  GET: http://localhost:8080/microservices/repositories/2
  Sample response:
 [
@@ -49,7 +50,8 @@ The following fields should be returned:
       login
       html_url
 
- url:
+ Service url:
+ 
  GET: http://localhost:8080/microservices/accounts/2
  Sample response:
  [
